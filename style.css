@@ -82,7 +82,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgba(29, 51, 84, 0.95);
+    background-color: rgba(72, 91, 121, 0.95);
     gap: 20px;
     z-index: 10;
 }
